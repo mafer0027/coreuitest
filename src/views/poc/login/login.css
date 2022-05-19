@@ -1,0 +1,29 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+.bg-image {
+  background-image: url(../assets/img/House-searching-in.gif);
+  background-size: cover;
+  background-position: center center;
+}
+
+.letter{
+color: #312B59 ;
+text-decoration: none;
+}
+
+.letter2{
+cursor: pointer;
+text-decoration: none;
+}
+*{
+margin: 0;
+padding: 0;
+}
+
+button.btn.btn-block.text-uppercase.mb-2.rounded-pill.shadow-sm{
+border-color: #321FDB;
+width: 100%;
+
+}
